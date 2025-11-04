@@ -2,7 +2,7 @@ How to Run--->
 
 1. Clone the repository:
    
-      git clone https://github.com/yourusername/docker-compose-html-demo.git
+      git clone https://github.com/SaykarPooja/docker-compose-static-web.git
    
       cd docker-compose-html-demo
    
